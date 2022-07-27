@@ -1,0 +1,29 @@
+@Before method and After method  are specified to particular class will execute before every and after every meyhod of that particular class
+@Before class and @after class are specified to that particular class only will execute before and after in that class.
+in testng order of text execution will depend on the test methods alphabetical order
+wen client want to run only 4 test cases after every build so for that there is a concept called group in testn67
+if some reqirement came like need to run this method before only tand this metthod after only we have one dependsOnMethods=
+there is a scenario that we need to take screenshot for every test failure,so whenever a particular testcase failed u want to take the screenshot of it
+but after every code u can't write the code for take screenshorts because after every code the test case fails teng have some intelligent mechanishm with
+ the help of listeners,that wenever testcase fails it roots out testcase to some specific block so whenever testcase fails screenshot code will execute 
+and screenshot,listener listens to your execution results wen it hear that something is failed den it will invoke one particular method and Itestlisterner
+is an interface which have all the methos for this testng listener
+so whenever the test fails the control of your execution come into that failure block as this class listens to whenever your testcase fails
+on test start//on the beginning of test it will execute
+on start
+on finish
+on testfailure//wen test is failed
+on test skipped
+on testsuccess//will execute wen the test is success
+if u want to take screenshot wen your test is failed so write screenshot method in that failure method
+wen running tesng xml need to tell where listeners class is locateddf
+
+
+
+git and svn both are open source dustributed version control system
+
+
+---------------------------------------------------------------------------
+github is a cental place where we post our code
+
+

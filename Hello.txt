@@ -1,0 +1,37 @@
+https://www.whizlabs.com/blog/agile-scrum-interview-questions/
+
+
+
+Sprint planning Meeting --> 1 hours (Starting of sprint)
+DSM   --> Daily 15 min
+Sprint review --> Demo
+Sprint 
+
+
+22 July --> Spritn Planning --> 1 hours
+
+...
+...
+
+...
+
+5 Aug--> Sprint review--> Last day of sprint--> Testers will give the demo to Product Owner
+then She will accept the US
+
+6 Aug--> Sprint Retro--> 1 hours
+
+			What went well
+			What could be improved
+			What didn’t work 
+
+------------------------------------------------------------------------
+
+POM:
+
+Pages --> LoginPage.java   RegisterPage.Java   AddToCard.java   Payment.java
+
+	(xpath, methods)
+
+
+test run--> 
+
