@@ -1,3 +1,4 @@
+
 @Before method and After method  are specified to particular class will execute before every and after every meyhod of that particular class
 @Before class and @after class are specified to that particular class only will execute before and after in that class.
 in testng order of text execution will depend on the test methods alphabetical order
@@ -24,6 +25,11 @@ git and svn both are open source dustributed version control system
 
 
 ---------------------------------------------------------------------------
-github is a cental place where we post our code
+github is a cental place where we post our code so that any other person can come to office and take the latest code from the github(a place where we 
+deposit our repository and people used to take it from der,cental reporsitory and we take code from der
+X is working on some code A den push comment he pushed the code in repository so the next day Y come to office and took github have the intelligence of 
+merging the code,github will look all the code and mange the code so automatically it takes all the code from different people and tries to merge and create 
+one common code so that tommorow if anyone comes to offfice will take all the developed code
+
 
 

@@ -1,0 +1,26 @@
+config is the command usd to set name and email
+global //can access anywhere from my local
+git init --for githun to understand so initalizing ,so if github wants to learn ypur local project den there will
+be one file which git opens and den takes the code ,will intialize a file into your folder
+Githhub will only take the code which is commited 
+Commit commits the code which is present in stash only
+two types of commit in guthub:
+stash or staging
+commit
+
+so if u need to push push your code to github so first u need to addd it to stash and den commit the code and place in commit
+and den u can push the directory to github
+1)move the code from local repo to stash  git add *
+2)git status-ucan see what r the files added to stash
+3)now send code to commit git commit -m "first commit"
+4)now need to coneect local repository to remote server  git remote add origin the first link on github page
+5)now push code from local to remote repo git push origin master
+
+
+
+x has written some code and now y wants to takes his code and den continue
+so for that need to clone that code as va fresh repositiory so for that u need to 
+git clone is something to extraxt the code present in the repositiory
+git clone link
+whole code will come to y system
+
